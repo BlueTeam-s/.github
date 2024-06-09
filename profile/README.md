@@ -58,10 +58,6 @@
     <th>- 👔 | Founder<br>- 👨💻 | Developer</th>
   </tr>
   <tr>
-    <td>mh_naskau</td>
-    <td>- 👔 | Co-Founder<br></td>
-  </tr>
-  <tr>
     <td>pat0o.azv</td>
     <td>- 👔 | Co-Founder<br>- 🛠 | Team leader's<br>- 👄 | Polyglot<br>- 🔨 | Moderator<br>- 📞 | Stand</td>
   </tr>
