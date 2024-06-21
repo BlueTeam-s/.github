@@ -61,16 +61,4 @@
     <td>pat0o.azv</td>
     <td>- 👔 | Co-Founder<br>- 🛠 | Team leader's<br>- 👄 | Polyglot<br>- 🔨 | Moderator<br>- 📞 | Stand</td>
   </tr>
-  <tr>
-    <td>ihm0481</td>
-    <td>- 👨💻 | Developer</td>
-  </tr>
-  <tr>
-    <td>sinay0608</td>
-    <td>- 👨💻 | Developer<br>- 📈 | Graphic designer</td>
-  </tr>
-  <tr>
-    <td>p_i_z_z_a.</td>
-    <td>- 👄 | Polyglot<br>- 🔨 | Moderator<br>- 📞 | Stand</td>
-  </tr>
 </table>
