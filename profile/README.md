@@ -58,7 +58,7 @@
     <td>- 👔 | Founder<br>- 👨💻 | Developer</td>
   </tr>
   <tr>
-    <td>pat0o.azv</td>
+    <td><a href="https://github.com/Pat0oazv">pat0o.azv</a></td>
     <td>- 👔 | Co-Founder<br>- 🛠 | Team leader's<br>- 👄 | Polyglot<br>- 🔨 | Moderator<br>- 📞 | Stand</td>
   </tr>
   <tr>
