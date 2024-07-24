@@ -55,7 +55,7 @@
 <table align="left">
   <tr>
     <th>homme.bleu</th>
-    <th>- 👔 | Founder<br>- 👨💻 | Developer</th>
+    <td>- 👔 | Founder<br>- 👨💻 | Developer</td>
   </tr>
   <tr>
     <td>pat0o.azv</td>
