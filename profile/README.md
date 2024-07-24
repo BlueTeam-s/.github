@@ -54,7 +54,7 @@
 <h3 align="left">Team Members and Roles:</h3>
 <table align="left">
   <tr>
-    <th><src="https://github.com/FRHommeBleu"/>homme.bleu</th>
+    <th><href="https://github.com/FRHommeBleu"/>homme.bleu</th>
     <td>- 👔 | Founder<br>- 👨💻 | Developer</td>
   </tr>
   <tr>
