@@ -60,11 +60,13 @@
   <tr>
     <td>pat0o.azv</td>
     <td>- 👔 | Co-Founder<br>- 🛠 | Team leader's<br>- 👄 | Polyglot<br>- 🔨 | Moderator<br>- 📞 | Stand</td>
-  </tr><tr>
+  </tr>
+  <tr>
     <td>kayo0011</td>
     <td>- 📈 | Graphic designer</td>
-  </tr><tr>
+  </tr>
+  <tr>
     <td>mh_naskau</td>
-    <td>- 🔨 | Moderator/td>
+    <td>- 🔨 | Moderator</td>
   </tr>
 </table>
