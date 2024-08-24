@@ -55,7 +55,7 @@
 <table align="left">
   <tr>
     <th><a href="https://github.com/FRHommeBleu">FRHommeBleu</a></th>
-    <td>- 👔 | Founder<br>- 👨💻 | Developer</td>
+    <td>- 👔 | Founder<br>- 👨💻 | Developer<br>- 📈 | Team Graphic designer</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Pat0oazv">pat0o.azv</a></td>
