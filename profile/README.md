@@ -62,10 +62,6 @@
     <td>- 👔 | Co-Founder<br>- 🛠 | Team leader's<br>- 👄 | Polyglot<br>- 🔨 | Moderator<br>- 📞 | Stand</td>
   </tr>
   <tr>
-    <td>kayo0011</td>
-    <td>- 📈 | Graphic designer</td>
-  </tr>
-  <tr>
     <td>mh_naskau</td>
     <td>- 🔨 | Moderator</td>
   </tr>
