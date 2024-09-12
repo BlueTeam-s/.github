@@ -58,11 +58,23 @@
     <td>- 👔 | Founder<br>- 👨💻 | Developer<br>- 📈 | Team Graphic designer</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Pat0oazv">pat0o.azv</a></td>
-    <td>- 👔 | Co-Founder<br>- 🛠 | Team leader's<br>- 👄 | Polyglot<br>- 🔨 | Moderator<br>- 📞 | Stand</td>
+    <td>mh_naskau</td>
+    <td>- 👔 | Co-Founder<br>- 🔨 | Moderator<br>
   </tr>
   <tr>
-    <td>mh_naskau</td>
+    <td>flowaves.</td>
+    <td>- 📈 | Graphic designer</td>
+  </tr>
+  <tr>
+    <td>kayo0011</td>
+    <td>- 📈 | Graphic designer</td>
+  </tr>
+  <tr>
+    <td>pat0o.azv</td>
+    <td>- 📞 | Stand</td>
+  </tr>
+  <tr>
+    <td>fxyooo</td>
     <td>- 🔨 | Moderator</td>
   </tr>
 </table>
