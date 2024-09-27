@@ -70,10 +70,6 @@
     <td>- 📈 | Graphic designer</td>
   </tr>
   <tr>
-    <td>pat0o.azv</td>
-    <td>- 📞 | Stand</td>
-  </tr>
-  <tr>
     <td>fxyooo</td>
     <td>- 🔨 | Moderator</td>
   </tr>
