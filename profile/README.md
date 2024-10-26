@@ -61,16 +61,4 @@
     <td>mh_naskau</td>
     <td>- 👔 | Co-Founder<br>- 🔨 | Moderator<br>
   </tr>
-  <tr>
-    <td>flowaves.</td>
-    <td>- 📈 | Graphic designer</td>
-  </tr>
-  <tr>
-    <td>kayo0011</td>
-    <td>- 📈 | Graphic designer</td>
-  </tr>
-  <tr>
-    <td>fxyooo</td>
-    <td>- 🔨 | Moderator</td>
-  </tr>
 </table>
